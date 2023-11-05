@@ -7,3 +7,4 @@ My A500 and SD-BOX BayA Made!
 
 PCB-REV 1.2
 ![SDBOX_PCB](https://github.com/amigamess/sd-box/assets/82521152/45941dd8-19bd-4c2c-ab43-da728da257b3)
+
