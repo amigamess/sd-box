@@ -5,3 +5,4 @@ My personal rev. 1.1 of SD-BOX BOOT DISK
 
 ![sd-box_photo](https://github.com/amigamess/sd-box/assets/82521152/9e945d64-b3b1-4b9b-bbd7-19c902172632)
 
+![SDBOX_PCB](https://github.com/amigamess/sd-box/assets/82521152/45941dd8-19bd-4c2c-ab43-da728da257b3)
