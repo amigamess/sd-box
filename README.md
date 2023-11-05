@@ -11,3 +11,6 @@ PCB-REV 1.2
 
 ![SDBOX_PCB](https://github.com/amigamess/sd-box/assets/82521152/45941dd8-19bd-4c2c-ab43-da728da257b3)
 
+SD-BOX CASE (for my personal PCB rev.)
+
+![3DCASE](https://github.com/amigamess/sd-box/assets/82521152/66d0814f-fa7b-4c01-ae45-b3c7b1fa7b84)
