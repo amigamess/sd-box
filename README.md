@@ -20,3 +20,4 @@ SD-BOX CASE (for my personal PCB rev.)
 
 ![3DCASE](https://github.com/amigamess/sd-box/assets/82521152/66d0814f-fa7b-4c01-ae45-b3c7b1fa7b84)
 
+ONLY FOR PERSONAL USE NO COMMERCIAL.
