@@ -1,3 +1,7 @@
+- 👋 Hi, I’m @amigamess (TheShark!)
+- 👀 I’m interested in retrocomputing, music, 3D and more...
+- 🌱 I’m currently learning Kicad, FreeCad...
+
 # sd-box
 My personal rev. 1.1 of SD-BOX BOOT DISK
 
